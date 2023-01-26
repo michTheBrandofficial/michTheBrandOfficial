@@ -9,7 +9,7 @@ I have been learning Web Development for over a year now. I am a self-taught dev
 * 🌍  I'm based in Anambra State , Nigeria
 * ✉️  You can contact me at [michthebrand@gmail.com](mailto:michthebrand@gmail.com)
 * 🧠  I'm learning ReactJS
-* 🤝  I'm open to collaborating on Github
+* 🤝  I'm open to collaboration on Github
 
 ### Skills
 
